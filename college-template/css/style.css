@@ -1,0 +1,140 @@
+.clearfix:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+body{
+	margin:0px;
+	background-color: maroon;
+
+}
+.header{
+	background-color: blue;
+	
+}
+
+.container{
+	margin-right: auto;
+	margin-left: auto;
+	width:1150px;
+	clear:both;
+}
+.logo{
+	float:left;
+	margin-left: 20px;
+	width: 290px;
+	height: 110px;
+	background-color: pink;
+}
+.navigation{
+	float:left;
+	
+	height: 90px;
+	width: 804px;
+	background-color: red;
+
+}
+.navigation ul li{
+	float: left;
+}
+.navigation ul li a{
+	text-decoration: none;
+	color:white;
+}
+.banner{
+	height: 460px;
+	width: 1350px;
+	background-color: orange;
+	clear :both;
+}
+.curriculam-innovation{
+	background-color:blue;
+	height:130px;
+}
+.News-events{
+	background-color: #ECF0F5;
+	height:380px;
+	text-align: center;
+}
+.international,.NIRF-2017,.journey{
+	width:355px;
+	height:203px;
+	background-color: green;
+	margin-top:50px;
+	float:left;
+	margin-left:10px;
+}
+.courses{
+	background-color:orange;
+	height:580px;
+	text-align: center;
+}
+.architechture,.engineering,.computing{
+	height: 198px;
+	width:355px;
+	background-color:green;
+	float:left;
+	margin-left: 20px;
+	margin-top:50px;
+}
+.humanities{
+	height:198px;
+	width: 355px;
+	background-color: green;
+	float: left;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+.tollfree{
+	height:198px;
+	width: 355px;
+	background-color: transparent;
+	float: left;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+.image{
+	width:280px;
+	height:187px;
+	float:left;
+	background-color: green;
+	margin-left: 90px;
+	margin-top: 30px;
+}
+.admission2017{
+	height: 520px;
+	width:1350px;
+	background-color: orange;
+
+}
+.admission2017 h2{
+	text-align: center;
+}
+.pvcn{
+	background-color:#ECF0F5 ;
+	height:207px;
+}
+.pmu-results,.videos,.campus,.NIRF2017{
+	height: 135px;
+	width: 262px;
+	background-color: green;
+	float:left;
+	margin-top: 30px;
+	margin-left:20px;
+}
+.toprecruiter{
+	background-color: #ffffff;
+	height:215px;
+}
+.links{
+	height: 290px;
+	background-color: #1F1F1F;
+}
+.links h2{
+	color:white;
+	text-align: center;
+}
+.footer{
+	height:60px;
+	background-color: #ffffff;
+}
